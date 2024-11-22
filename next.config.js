@@ -2,6 +2,6 @@
 
 module.exports = {
   images: {
-    domains: ["raw.githubusercontent.com", "krejggkiduvzcqewuose.supabase.co"],
+    domains: ["raw.githubusercontent.com", "glgmigqsarfgzgecijgx.supabase.co"],
   },
 };
