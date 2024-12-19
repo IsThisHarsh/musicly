@@ -6,6 +6,7 @@ import { FaPlay } from "react-icons/fa";
 
 import useAuthModal from "@/hooks/useAuthModal";
 import { useUser } from "@/hooks/useUser";
+import React from "react";
 
 interface ListItemProps {
   image: string;
