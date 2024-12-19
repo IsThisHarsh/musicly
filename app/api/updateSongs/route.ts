@@ -14,5 +14,3 @@ export async function GET() {
         return NextResponse.json({error: "Failed to fetch songs"}, {status: 500});
     }
 }
-
-export const getCachedSongs = () => cachedSongs;
