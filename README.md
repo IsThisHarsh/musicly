@@ -25,8 +25,8 @@
 
 - **Frontend**: Next.js, React, TypeScript
 - **Styling**: Tailwind CSS for a responsive UI
-- **Authentication**: Firebase Auth for user login
-- **Database**: Firebase Firestore for storing user data
+- **Authentication**: Supabase for user login
+- **Database**: Supabase for storing user data
 - **Hosting**: Vercel for deployment
 
 ## Prerequisites
